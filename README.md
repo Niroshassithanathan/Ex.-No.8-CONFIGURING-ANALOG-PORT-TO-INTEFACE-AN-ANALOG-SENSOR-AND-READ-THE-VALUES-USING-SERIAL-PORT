@@ -201,7 +201,7 @@ After Deep Dipping of soil-moisture-sensor-device in water :
 
 ![image](https://github.com/Niroshassithanathan/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/121418437/03544a93-c39c-429f-b94d-99360ece00f9)
 
-Result :
+## Result :
 Hence,the configuring analog port to inteface an analog sensor and read the values using serial port runned successfully.
 
  
